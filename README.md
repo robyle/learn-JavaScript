@@ -1,4 +1,4 @@
-## learn-JavaScript
+# learn-JavaScript
 ---
 
 ## learn JavaScript with Dream Coding
