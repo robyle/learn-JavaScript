@@ -1,12 +1,11 @@
 # learn-JavaScript
----
 
 ## learn JavaScript with Dream Coding
 
 2021.01.23
 
 :purple_heart:
-
+---
 used **JavaScript**
 
 - JavaScript
