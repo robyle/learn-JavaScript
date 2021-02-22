@@ -12,6 +12,7 @@ import org.bson.Document;
 public class myread {
     public static void main(String[] args) {
         System.out.println("开始Java  --> MongoDB 读取数据库之旅!");
+        System.out.println("Let's Begin!");
         //readMongodb("localhost",47017,"r*t","admin","Aa1*6","parserdata","judgment");
     }
 
@@ -38,6 +39,7 @@ public class myread {
             };
 
             collection.find(query).limit(limit).forEach(processBlock);
+
 
         } catch (MongoException e) {
             // handle MongoDB exception
